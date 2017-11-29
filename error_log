@@ -1,0 +1,2 @@
+[12-Oct-2017 07:27:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rechargenp/public_html/lgr.php on line 108
+[12-Oct-2017 07:34:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/rechargenp/public_html/edituserprofile.php on line 27
